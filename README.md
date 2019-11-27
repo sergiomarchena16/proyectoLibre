@@ -10,13 +10,13 @@
 HOW TO INSTALL:
 
 ```
-* npm install
+npm install
 ```
 
 HOW TO RUN:
 
 ```
-* npm start
+npm start
 ```
 
 
