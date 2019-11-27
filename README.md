@@ -21,4 +21,4 @@ npm start
 
 ## sccreenshots
 
-![Alt text](screenshots/Capture1.jpg?raw=true "test 1")
+![Alt text](https://github.com/sergiomarchena16/proyectoLibre/screenshots/Capture1.jpg?raw=true "test 1")
