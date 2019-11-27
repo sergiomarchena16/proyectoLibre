@@ -19,4 +19,6 @@ HOW TO RUN:
 npm start
 ```
 
+## sccreenshots
 
+![Alt text](screenshots/Capture1.jpg?raw=true "test 1")
