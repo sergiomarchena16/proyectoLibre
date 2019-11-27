@@ -21,5 +21,5 @@ npm start
 
 ## sccreenshots
 
-![Figure1](../master/screenshots/Capture1.png)
+![Figure1](../master/screenshots/Capture1.PNG)
 ![Figure2](../master/screenshots/Capture2.PNG)
