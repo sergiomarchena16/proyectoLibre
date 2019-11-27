@@ -1,5 +1,6 @@
-# proyectoLibre
-## proyecto libre web
+# PROYECTO LIBRE - WEATHER MAP  
+## sergio marchena
+### instructions:
 
 HOW TO INSTALL:
 
