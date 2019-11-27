@@ -7,7 +7,7 @@ HOW TO INSTALL:
 * npm install
 ```
 
-HOW TO RUN
+HOW TO RUN:
 
 ```
 * npm start
