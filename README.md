@@ -21,4 +21,5 @@ npm start
 
 ## sccreenshots
 
-![Figure 1](https://github.com/sergiomarchena16/proyectoLibre/blob/master/screenshots/Capture1.PNG)
+![Figure1](../master/screenshots/Capture1.png)
+![Figure2](../master/screenshots/Capture2.png)
