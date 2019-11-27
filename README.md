@@ -1,12 +1,16 @@
 # proyectoLibre
-proyecto libre web
+## proyecto libre web
 
-HOW TO INSTALL
+HOW TO INSTALL:
 
+```
 * npm install
+```
 
 HOW TO RUN
 
+```
 * npm start
+```
 
 
